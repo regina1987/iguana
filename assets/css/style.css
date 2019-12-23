@@ -1,0 +1,111 @@
+
+
+body , html *{
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+}
+.top
+{ margin-top: 0;
+  background-color: #000000;
+  height: 2rem;
+  text-align: center;
+  color: #ffffff;
+}
+h2 {
+  margin-top: 0;
+  font-weight: 500;
+  font-size: 50px;
+}
+
+.mainimg {
+  background-image: url("../img/bg-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40rem;
+}
+
+.info {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 35px 200px 35px 200px;
+
+
+}
+ .ttt {
+   width: 60%;
+    vertical-align: middle;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 300;
+
+ }
+
+ .ttt p {
+   padding-top: 30px;
+   padding-right: 100px;
+ }
+
+.ff {
+  height: 11rem;
+  width:18rem;
+  text-align: right;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.ff img {
+  height: 13rem;
+  width:21rem;
+}
+
+.carac {
+background-color: #1E1A13;
+height: 348px;
+color: #ffffff;
+text-align: center;
+padding-left:
+}
+.carac h2
+{ padding-top: 50px;
+  padding-bottom: 70px;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.carac a { color: #ffffff;
+   font-size: 2rem;
+}
+.ojo{
+  display: inline-block;
+  width: 28%
+}
+
+.foto  img {
+  display: inline-block;
+  height: 11rem;
+  width:18rem;
+  margin-left:8px;
+}
+.foto {
+background-color: #000000;
+  padding: 75px 0px 75px 200px;
+
+}
+
+
+
+footer
+{
+  background-color: #1E1A13;
+text-align: center;
+color: #ffffff;
+height:4rem;
+font-weight: 300;
+
+}
+footer p {
+  padding-top: 1.5em;
+}
